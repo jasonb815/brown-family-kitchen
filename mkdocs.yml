@@ -1,0 +1,45 @@
+site_name: The Brown Family Kitchen
+site_description: Brown family recipes, notes, and kitchen traditions
+site_url: https://jasonb815.github.io/brown-family-kitchen/
+repo_url: https://github.com/jasonb815/brown-family-kitchen
+repo_name: jasonb815/brown-family-kitchen
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Recipes:
+      - Soups:
+          - Hamburger Vegetable Soup: recipes/soups/hamburger-vegetable-soup.md
+  - About: about.md
