@@ -40,6 +40,15 @@ extra_css:
 nav:
   - Home: index.md
   - Recipes:
+      - Beef:
+          - Crockpot French Onion Meatballs: recipes/beef/crockpot-french-onion-meatballs.md
+      - Desserts:
+          - Gluten-Free Coconut Cream Cake: recipes/desserts/gluten-free-coconut-cream-cake.md
+      - Drinks:
+          - Fire Cider: recipes/drinks/fire-cider.md
+          - Peach Pecan Infused Bourbon: recipes/drinks/peach-pecan-infused-bourbon.md
+      - Snacks:
+          - Frozen Banana Yogurt Pops: recipes/snacks/frozen-banana-yogurt-pops.md
       - Soups:
           - Hamburger Vegetable Soup: recipes/soups/hamburger-vegetable-soup.md
   - About: about.md
