@@ -1,0 +1,28 @@
+/* Small, targeted tweaks on top of the Material theme -- not a redesign. */
+
+/* Recipe intro line (used by recipe pages, e.g. <p class="recipe-intro">) */
+.recipe-intro {
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Print styles: recipes are meant to be printed and taken into the
+   kitchen, so strip away the site chrome and keep just the content. */
+@media print {
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-search,
+  .md-content__button {
+    display: none !important;
+  }
+
+  .md-content {
+    margin: 0;
+  }
+
+  a[href]::after {
+    content: none !important;
+  }
+}
