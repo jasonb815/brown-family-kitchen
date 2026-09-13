@@ -8,6 +8,8 @@ total_time: About 2 hours 35 minutes
 difficulty: Moderate
 source: MamaGourmand
 source_url: https://www.mamagourmand.com/gluten-free-coconut-cake/
+status: new
+faves: false
 ---
 
 # Gluten-Free Coconut Cream Cake

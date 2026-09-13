@@ -10,6 +10,8 @@ tags:
   - freezer
   - no-cook
 source_credit: Amy Palanjian
+status: new
+faves: false
 ---
 
 # Frozen Banana Yogurt Pops

@@ -12,6 +12,8 @@ tags:
   - pecan
   - infused
   - make-ahead
+status: new
+faves: false
 ---
 
 # Peach Pecan Infused Bourbon

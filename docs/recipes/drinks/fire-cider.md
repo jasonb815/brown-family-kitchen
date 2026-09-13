@@ -10,6 +10,8 @@ tags:
   - apple-cider-vinegar
   - herbal
   - make-ahead
+status: new
+faves: false
 ---
 
 # Fire Cider

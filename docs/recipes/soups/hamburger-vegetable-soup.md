@@ -8,6 +8,8 @@ difficulty: Easy
 favorite: true
 freezer_friendly: true
 author: Jason Brown
+status: new
+faves: false
 ---
 
 # Jason's Hamburger Vegetable Soup

@@ -7,6 +7,8 @@ cook_time: 4-6 hours
 difficulty: Easy
 source: Cooking in the Midwest
 source_url: https://cookinginthemidwest.com/blog/crockpot-french-onion-meatballs/
+status: new
+faves: false
 ---
 
 # Crockpot French Onion Meatballs
