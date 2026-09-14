@@ -42,6 +42,9 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Browse:
+      - By Status: browse/by-status.md
+      - Favorites: browse/favorites.md
   - Recipes:
       - Beef:
           - Crockpot French Onion Meatballs: recipes/beef/crockpot-french-onion-meatballs.md
