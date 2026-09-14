@@ -8,4 +8,5 @@ cd "$(dirname "${BASH_SOURCE[0]}")"
 
 git pull
 source .venv/bin/activate
+python3 scripts/generate_browse_pages.py
 mkdocs build
