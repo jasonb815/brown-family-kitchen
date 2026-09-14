@@ -26,6 +26,9 @@ theme:
 plugins:
   - search
 
+hooks:
+  - hooks/badges.py
+
 markdown_extensions:
   - admonition
   - attr_list
