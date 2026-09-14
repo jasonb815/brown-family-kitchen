@@ -6,6 +6,38 @@
   color: var(--md-default-fg-color--light);
 }
 
+/* Recipe status/faves badges (hooks/badges.py inserts these after each
+   recipe's H1). One distinct color per status slug, modest pill style
+   consistent with the rest of the site -- not a redesign. */
+.recipe-badges {
+  margin: 0.4rem 0 1rem 0;
+}
+
+.recipe-badge {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  margin: 0 0.4rem 0.3rem 0;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: #ffffff;
+}
+
+.recipe-badge--new { background: #9e9e9e; }
+.recipe-badge--tried-disliked { background: #d32f2f; }
+.recipe-badge--tried-ok { background: #f9a825; color: #3a2e00; }
+.recipe-badge--tried-loved { background: #388e3c; }
+.recipe-badge--basic { background: #1976d2; }
+.recipe-badge--in-rotation { background: #7b1fa2; }
+.recipe-badge--family { background: #8d6e37; }
+
+.recipe-badge--faves {
+  background: #fff8e1;
+  color: #8a6d00;
+  border: 1px solid #f5c518;
+}
+
 /* Print styles: recipes are meant to be printed and taken into the
    kitchen, so strip away the site chrome and keep just the content. */
 @media print {
