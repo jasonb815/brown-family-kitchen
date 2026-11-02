@@ -32,7 +32,3 @@ mkdocs serve
 ```
 
 Then commit the change to `main`.
-
-## Tres Dias cookbook
-
-Tres Dias recipes should ultimately live in a separate repository and site. This keeps institutional recipes, large-batch scaling, permissions, and family content independent while allowing both sites to use the same template and publishing system.
