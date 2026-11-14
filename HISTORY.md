@@ -2,6 +2,12 @@
 
 Newest first. One entry per session that changes something. Format is defined in CLAUDE.md.
 
+## 2026-11-14 — Grandpa's Chili recipe card photos
+- Why: attach the two photos of Grandpa's handwritten recipe card (front and back) to the recipe.
+- Changed: docs/recipes/soups/grandpas-chili.md (new "## Photos / ### Recipe Card" section, added by scripts/add_recipe_images.py); docs/assets/recipe-images/grandpas-chili/grandpas-chili-card-01.jpg and -02.jpg; HISTORY.md. Originals (HEIC) stay in ~/.scratch/incoming/, not committed. First pass came out sideways; redone with --rotate 270, and the sideways JPEGs were quarantined.
+- Commits: CookBook-018.
+- Follow-ups: none.
+
 ## 2026-11-14 — Recipe image support
 - Why: BrownRecipesNN prompt; let recipes carry photos of the original card, the finished dish and prep steps.
 - Changed: added scripts/add_recipe_images.py (HEIC/JPG/PNG -> stripped, <=1600px JPEG + "## Photos" figures) and requirements-tools.txt (pillow, pillow-heif); enabled mkdocs-glightbox (pinned in requirements.txt, plugin in mkdocs.yml); figure/figcaption rules in docs/stylesheets/extra.css; *.heic/*.heif in .gitignore; "Adding photos" in README.md; comment in templates/recipe-template.md. No real recipe was given photos.

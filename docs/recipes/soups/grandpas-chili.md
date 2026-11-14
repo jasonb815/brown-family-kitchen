@@ -85,6 +85,20 @@ faves: false
 - [ ] Cayenne red pepper
 - [ ] Basil
 
+## Photos
+
+### Recipe Card
+
+<figure markdown>
+  ![Grandpa's handwritten recipe card](../../assets/recipe-images/grandpas-chili/grandpas-chili-card-01.jpg){ loading=lazy }
+  <figcaption>Grandpa's handwritten recipe card</figcaption>
+</figure>
+
+<figure markdown>
+  ![Grandpa's handwritten recipe card](../../assets/recipe-images/grandpas-chili/grandpas-chili-card-02.jpg){ loading=lazy }
+  <figcaption>Grandpa's handwritten recipe card</figcaption>
+</figure>
+
 ---
 
 *Transcribed from Grandpa's handwritten recipe card for the Brown Family Kitchen.*
