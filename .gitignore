@@ -22,3 +22,8 @@ venv/
 *.sqlite
 *.sqlite3
 backups/
+
+# recipe photo originals must never be committed (see scripts/add_recipe_images.py)
+*.heic
+*.HEIC
+*.heif

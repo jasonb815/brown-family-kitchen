@@ -36,3 +36,5 @@ faves: false
 
 1. Step one
 2. Step two
+
+<!-- Optional: a "## Photos" section is added by scripts/add_recipe_images.py, not written by hand. -->

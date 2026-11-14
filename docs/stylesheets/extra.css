@@ -58,3 +58,17 @@
     content: none !important;
   }
 }
+
+/* Recipe photos (added by scripts/add_recipe_images.py) */
+.md-typeset figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.4rem;
+  margin: 0.5rem 0;
+}
+
+.md-typeset figcaption {
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.8rem;
+}

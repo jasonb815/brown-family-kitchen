@@ -25,6 +25,7 @@ theme:
 
 plugins:
   - search
+  - glightbox
 
 hooks:
   - hooks/badges.py
