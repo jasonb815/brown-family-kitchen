@@ -40,7 +40,9 @@ faves: false
 - **1 shake** garlic powder
 - **2 good shakes** cayenne red pepper
 - **1 large** sweet onion, diced
-- **1/2 tsp** basil
+- **1/2 tsp** fresh basil
+- **??** cocoa powder
+- **??** pickle juice
 
 ## Directions
 
@@ -56,8 +58,8 @@ faves: false
 
 ## Brown Family Notes
 
-- From Grandpa's (Michael Brown, Sr.) handwritten recipe card.
-- The card names a brand of country sausage in parentheses next to the sausage. It reads like "Jingles Country Sausage."
+- From Uncle Michael's (Michael Brown, Sr.) handwritten recipe card.
+- The card names a brand of country sausage in parentheses next to the sausage. It reads like "Ingles Country Sausage."
 - The card doesn't say how many it serves or how long to simmer. Simmer until thick and the flavors have come together.
 
 ## Shopping List
