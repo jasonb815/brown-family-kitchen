@@ -2,6 +2,12 @@
 
 Newest first. One entry per session that changes something. Format is defined in CLAUDE.md.
 
+## 2026-11-24 — Add Chocolate Delight (Desserts)
+- Why: BrownRecipesNN prompt to add Christy Shaw's Chocolate Delight to the Desserts category.
+- Changed: added docs/recipes/desserts/chocolate-delight.md (verbatim from the prompt); Desserts nav entry in mkdocs.yml (before Gluten-Free Coconut Cream Cake); HISTORY.md. Rebuilt site/ and browse pages (not committed). Recipe appears under Browse > By Status > "New — Never Tried".
+- Commits: CookBook-021.
+- Follow-ups: none.
+
 ## 2026-11-24 — Fix truncated Shopping List in Alton Brown's Brined Turkey
 - Why: BrownRecipesNN prompt; the recipe ended with an empty "###" under Shopping List and had no source footer.
 - Changed: docs/recipes/poultry/alton-browns-brined-turkey.md (Shopping List contents, Supplies, source footer restored; nothing above it touched); HISTORY.md. Rebuilt site/ (not committed).
