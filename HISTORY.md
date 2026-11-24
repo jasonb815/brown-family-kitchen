@@ -2,6 +2,12 @@
 
 Newest first. One entry per session that changes something. Format is defined in CLAUDE.md.
 
+## 2026-11-24 — Fix truncated Shopping List in Alton Brown's Brined Turkey
+- Why: BrownRecipesNN prompt; the recipe ended with an empty "###" under Shopping List and had no source footer.
+- Changed: docs/recipes/poultry/alton-browns-brined-turkey.md (Shopping List contents, Supplies, source footer restored; nothing above it touched); HISTORY.md. Rebuilt site/ (not committed).
+- Commits: CookBook-020.
+- Follow-ups: none.
+
 ## 2026-11-24 — Add Alton Brown's Brined Turkey (new Poultry category)
 - Why: BrownRecipesNN prompt to add Alton Brown's Brined Turkey under a new Poultry category.
 - Changed: added docs/recipes/poultry/alton-browns-brined-turkey.md (verbatim from the prompt); new Poultry nav section between Drinks and Snacks in mkdocs.yml; HISTORY.md. Rebuilt site/ and browse pages (not committed). hooks/badges.py and scripts/generate_browse_pages.py have no hardcoded category list.

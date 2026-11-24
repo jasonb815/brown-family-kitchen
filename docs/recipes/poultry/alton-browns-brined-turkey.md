@@ -94,4 +94,34 @@ faves: false
 
 ## Shopping List
 
-###
+### Meat
+- [ ] 1 whole turkey, 14 to 16 lb
+
+### Produce
+- [ ] 1 red apple
+- [ ] 1 onion
+- [ ] Fresh rosemary (4 sprigs)
+- [ ] Fresh sage (6 leaves)
+
+### Pantry
+- [ ] 1 gallon vegetable stock
+- [ ] Kosher salt
+- [ ] Light brown sugar
+- [ ] Black peppercorns
+- [ ] Allspice berries
+- [ ] Candied ginger
+- [ ] 1 cinnamon stick
+- [ ] Canola oil
+
+### Supplies
+- [ ] 5-gallon food-safe bucket or brining bag
+- [ ] Ice
+- [ ] Probe thermometer
+- [ ] Heavy-duty foil
+- [ ] Roasting pan with rack
+
+---
+
+**Source:** [Foodgasm Recipes - Alton Brown's Brined Turkey](https://foodgasmrecipes.com/alton-browns-brined-turkey/)
+
+*Original recipe by Alton Brown. Directions have been condensed and reformatted for the Brown Family Kitchen.*
