@@ -2,6 +2,12 @@
 
 Newest first. One entry per session that changes something. Format is defined in CLAUDE.md.
 
+## 2026-11-24 — Add Alton Brown's Brined Turkey (new Poultry category)
+- Why: BrownRecipesNN prompt to add Alton Brown's Brined Turkey under a new Poultry category.
+- Changed: added docs/recipes/poultry/alton-browns-brined-turkey.md (verbatim from the prompt); new Poultry nav section between Drinks and Snacks in mkdocs.yml; HISTORY.md. Rebuilt site/ and browse pages (not committed). hooks/badges.py and scripts/generate_browse_pages.py have no hardcoded category list.
+- Commits: CookBook-019.
+- Follow-ups: recipe file ends with an empty "### " heading under "## Shopping List" (as supplied); fill in or remove.
+
 ## 2026-11-14 — Grandpa's Chili recipe card photos
 - Why: attach the two photos of Grandpa's handwritten recipe card (front and back) to the recipe.
 - Changed: docs/recipes/soups/grandpas-chili.md (new "## Photos / ### Recipe Card" section, added by scripts/add_recipe_images.py); docs/assets/recipe-images/grandpas-chili/grandpas-chili-card-01.jpg and -02.jpg; HISTORY.md. Originals (HEIC) stay in ~/.scratch/incoming/, not committed. First pass came out sideways; redone with --rotate 270, and the sideways JPEGs were quarantined.
