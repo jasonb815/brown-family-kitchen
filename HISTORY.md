@@ -2,6 +2,12 @@
 
 Newest first. One entry per session that changes something. Format is defined in CLAUDE.md.
 
+## 2026-11-26 — Add 13 Christmas cookie swap recipes (new Cookies category)
+- Why: BrownRecipesNN prompt to add the Christmas cookie swap recipes, supplied pre-formatted in ~/.scratch/incoming/cookie-swap-recipes.zip.
+- Changed: added 13 files under docs/recipes/cookies/ (copied byte-for-byte; sha256 of each matched the prompt's list and the zip's SHA256SUMS, before and after copying); new Cookies nav section between Beef and Desserts in mkdocs.yml; HISTORY.md. Rebuilt site/ and browse pages (not committed); browse generator now reports 22 recipes, all 13 new ones under Browse > By Status > "New — Never Tried".
+- Commits: 80e8a0c (CookBook-022, recipes + nav), CookBook-023 (this HISTORY entry; it missed CookBook-022 because of a tooling slip, and main is never force-pushed).
+- Follow-ups: 4 recipes have no amounts in the swap version (100 Grands, Mimi's Peppermint Bark, Mini Pecan Pie Bites, Sweet Potato Cheesecake Squares); fill in quantities when the full recipes arrive. Zip and extraction folder left in ~/.scratch (incoming/ and cookie-extract/).
+
 ## 2026-11-24 — Add Chocolate Delight (Desserts)
 - Why: BrownRecipesNN prompt to add Christy Shaw's Chocolate Delight to the Desserts category.
 - Changed: added docs/recipes/desserts/chocolate-delight.md (verbatim from the prompt); Desserts nav entry in mkdocs.yml (before Gluten-Free Coconut Cream Cake); HISTORY.md. Rebuilt site/ and browse pages (not committed). Recipe appears under Browse > By Status > "New — Never Tried".
