@@ -13,7 +13,7 @@ tags:
   - brine
   - thanksgiving
   - make-ahead
-status: new
+status: tried-loved
 faves: false
 ---
 
@@ -86,7 +86,10 @@ faves: false
 
 ## Brown Family Notes
 
-- Added to the cookbook to try.
+- Made for Thanksgiving 2026. Really tasty and moist.
+- Made a triple batch of the brine in a large stock pot and used it to brine two turkeys, each in its own 5-gallon bucket with ice.
+- Brined for 18+ hours, longer than the 8-16 hours in the original, and the turkeys still came out moist.
+- After brining, each turkey rested on a rack to dry for 3 hours before roasting.
 - Brining helps keep the breast meat tender and moist.
 - The original sets the thermometer alarm at 161°F, relying on the temperature rising while the turkey rests. The USDA safe temperature for poultry is 165°F, so confirm the thickest part of the breast has reached 165°F after resting before serving.
 - Use a food-safe bucket or brining bag, and keep the turkey cold the whole time it is brining.

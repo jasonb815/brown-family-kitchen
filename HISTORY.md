@@ -2,6 +2,12 @@
 
 Newest first. One entry per session that changes something. Format is defined in CLAUDE.md.
 
+## 2026-11-26 — Alton Brown's Brined Turkey: tried-loved, Thanksgiving 2026 notes
+- Why: BrownRecipesNN prompt; Jason cooked the turkey for Thanksgiving 2026 and loved it.
+- Changed: docs/recipes/poultry/alton-browns-brined-turkey.md (status new -> tried-loved; "Added to the cookbook to try." replaced by four Thanksgiving 2026 notes on the triple brine batch, two turkeys in 5-gallon buckets, 18+ hour brine, 3-hour rack dry; nothing else touched); HISTORY.md. Rebuilt site/ and browse pages (not committed). By Status now: New 20, Tried Once – Loved 1, Family Recipe 1.
+- Commits: CookBook-024.
+- Follow-ups: none.
+
 ## 2026-11-26 — Add 13 Christmas cookie swap recipes (new Cookies category)
 - Why: BrownRecipesNN prompt to add the Christmas cookie swap recipes, supplied pre-formatted in ~/.scratch/incoming/cookie-swap-recipes.zip.
 - Changed: added 13 files under docs/recipes/cookies/ (copied byte-for-byte; sha256 of each matched the prompt's list and the zip's SHA256SUMS, before and after copying); new Cookies nav section between Beef and Desserts in mkdocs.yml; HISTORY.md. Rebuilt site/ and browse pages (not committed); browse generator now reports 22 recipes, all 13 new ones under Browse > By Status > "New — Never Tried".
